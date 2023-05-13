@@ -1,0 +1,6 @@
+name: DoNotTheStart
+version: '${project.version}'
+main: de.tamion.DoNotTheStart
+api-version: 1.19
+authors: [Tamion]
+description: Why did you download This? And also how tf are you reading this rn?
