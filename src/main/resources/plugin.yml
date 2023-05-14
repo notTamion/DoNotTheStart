@@ -1,4 +1,4 @@
-name: DoNotTheStart
+name: StartLobbyPlugin
 version: '${project.version}'
 main: de.tamion.DoNotTheStart
 api-version: 1.19
